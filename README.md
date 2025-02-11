@@ -3,11 +3,11 @@ This project is a clone of the popular blogging platform Medium, built using a m
 
 ## Technologies Used
 Frontend: React<br>
-Backend: Cloudflare Workers,
-Validation Library: Zod,
-Language: TypeScript,
-ORM: Prisma,
-Database: PostgreSQL,
+Backend: Cloudflare Workers<br>
+Validation Library: Zod<br>
+Language: TypeScript<br>
+ORM: Prisma<br>
+Database: PostgreSQL<br>
 Authentication: JWT
 
 
